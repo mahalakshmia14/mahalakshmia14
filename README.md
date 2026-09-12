@@ -1,6 +1,6 @@
 # Hi, I'm Mahalakshmi A 👋
 
-### Biomedical Engineering Student | AI/ML | Healthcare Analytics
+### Biomedical Engineering Student | AI/ML | Healthcare Analytics| Web Development | Data Analytics
 
 I'm a Biomedical Engineering undergraduate passionate about combining **engineering, artificial intelligence, and healthcare** to build data-driven solutions for real-world problems.
 
