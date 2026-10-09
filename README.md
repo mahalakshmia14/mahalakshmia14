@@ -76,16 +76,6 @@ A real-time physiological monitoring project combining **ECG acquisition, stress
 - Statistical analysis of stress responses
 
 
-### 🌡️ Humid Hunt
-
-A smart environmental monitoring system designed to monitor **temperature and humidity** using Arduino and DHT11 sensors.
-
-**Tech:** Arduino IDE • C++ • DHT11
-
-- Real-time environmental sensing
-- Threshold-based alerts
-- Monitoring approach for asthma and allergy-related environments
-
 
 ## 💼 Experience
 
